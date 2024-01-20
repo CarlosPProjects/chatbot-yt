@@ -1,5 +1,5 @@
+![Captura del chatbot](https://github.com/CarlosPProjects/chatbot-yt/blob/6955bbf3e6b49a4761d4107aa4bda6be33b41647/captura-chatbot.png)
 
-https://github.com/CarlosPProjects/chatbot-yt/blob/6955bbf3e6b49a4761d4107aa4bda6be33b41647/captura-chatbot.png
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
